@@ -4,8 +4,13 @@
 <h3 align="left">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="350" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"/>
 
+- I have been learning coding for the last 2 years. I started my programming journey with **C** and became interested in Web development with JavaScript. I am a final year IT student and Continuously upgrading myself in the fast-moving tech world.
+
 - 🌱 I’m currently learning **NEXTJS**
 - 📫 How to reach me **kumaranandstudent@gmail.com**
+
+<a href="https://www.github.com/anandkr651" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/anandkr651?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ## 🌐Socials
 
